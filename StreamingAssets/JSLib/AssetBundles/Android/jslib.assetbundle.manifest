@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 655973896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29542b570ace8304cc59123e6af6d84d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ReX/Materials/SdfGenerator.mat
+- Assets/ReX/Shaders/URP/New Shader Graph.shadergraph
+- Assets/ReX/Materials/RexKaraokeDebug.mat
+- Assets/ReX/Shaders/URP/RexTextURPSample2.shader
+- Assets/ReX/Materials/URP/Unlit.mat
+- Assets/ReX/Shaders/SdfGenerator.shader
+- Assets/ReX/Materials/URP/RexTextSample1.mat
+- Assets/ReX/Materials/URP/Lit.mat
+- Assets/ReX/Shaders/URP/RexTextURPSample1.shader
+- Assets/ReX/Materials/TextColorTableReverse.png
+- Assets/ReX/Shaders/URP/RexTextURPMoveByLine.shader
+- Assets/ReX/Shaders/URP/RexTextURPClassic.shader
+- Assets/ReX/Materials/URP/RexTextStandard.mat
+- Assets/ReX/Materials/URP/RexTextSample2.mat
+- Assets/ReX/Materials/URP/RexTextScroll.mat
+- Assets/ReX/Materials/URP/RexTextClassic.mat
+- Assets/ReX/Shaders/URP/RexTextURPScroll.shader
+- Assets/ReX/Materials/TextColorTable.png
+- Assets/ReX/Shaders/URP/RexTextURPStandard.shader
+- Assets/ReX/Materials/URP/RexTextMoveByLine.mat
+Dependencies: []
